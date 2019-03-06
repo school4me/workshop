@@ -25,23 +25,19 @@ you, if you change any of this the git program will notice it and compromise you
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
   
-  She never got to dance  
-Or go to her own prom.  
-She never got the chance  
-To forget where she came from.  
-  
-She never got to kiss,  
-A man she idolized.  
-She never felt love's bliss,  
-'Cause she was paralyzed.  
-  
-She never got to talk  
-About love with a smile.  
-She never got to walk  
-Down a church's aisle.  
+I wandered lonely as a Cloud    
+   That floats on high o’er Vales and Hills,    
+When all at once I saw a crowd,    
+   A host of golden Daffodils;    
+Beside the Lake, beneath the trees,    
+Fluttering and dancing in the breeze.    
 
-She never got to say  
-Those precious words, "I Do."  
-But she was far and away  
-The strongest girl I ever knew.    
+Continuous as the stars that shine    
+   And twinkle on the Milky Way,    
+They stretched in never-ending line    
+   Along the margin of a bay:    
+Ten thousand saw I at a glance,    
+Tossing their heads in sprightly dance.   
+  
 
+  
