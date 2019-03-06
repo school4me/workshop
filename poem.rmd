@@ -15,6 +15,7 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+
 "There was an ancient City, stricken down  
 With a strange frenzy, and for many a day  
 They paced from morn to eve the crowded town,  
@@ -32,3 +33,20 @@ I asked the cause: the aged man grew sad:"
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+  
+I wandered lonely as a Cloud    
+   That floats on high o’er Vales and Hills,    
+When all at once I saw a crowd,    
+   A host of golden Daffodils;    
+Beside the Lake, beneath the trees,    
+Fluttering and dancing in the breeze.    
+
+Continuous as the stars that shine    
+   And twinkle on the Milky Way,    
+They stretched in never-ending line    
+   Along the margin of a bay:    
+Ten thousand saw I at a glance,    
+Tossing their heads in sprightly dance.   
+  
+
+  
